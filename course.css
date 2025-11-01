@@ -9,7 +9,7 @@
 
 
 .course-grid {
-  padding-left: 2.5rem;
+  padding-left: 1.5rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
   gap: 3rem;
@@ -64,4 +64,5 @@
   max-width: 400px;
 padding-right: 4rem;
 }
+
 }
